@@ -2,6 +2,5 @@
   "appId": "com.udemycourse.ionicangular",
   "appName": "ionic-angular-course",
   "bundledWebRuntime": false,
-  "webDir": "www",
-  "linuxAndroidStudioPath": "/home/70773807187/Android/android-studio/bin/studio.sh"
+  "webDir": "www"
 }
